@@ -11,5 +11,10 @@ public class PaymentService {
 	{
 		return "credit card payment done";
 	}
+	
+	public String upiPayment()
+	{
+		return "Upi payment done";
+	}
 }
  
