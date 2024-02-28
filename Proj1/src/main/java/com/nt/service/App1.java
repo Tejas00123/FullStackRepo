@@ -7,7 +7,8 @@ public class App1 {
 
 		ArithmaticOperation obj = new ArithmaticOperation();
 		
-		System.out.println("Addition::"+obj.add(10, 20)); //a
-	}
+
+		System.out.println("Addition::"+obj.add(10, 20));//
+}
 
 }
